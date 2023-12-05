@@ -1,4 +1,4 @@
-The Notebook contains the following key components:
+# The Notebook contains the following key components:
 
 1. **Data Generation:** This section generates artificial data representing solar activity for different durations: 100 years and 1000 years. The data will simulate solar activity patterns over these time spans.
 
